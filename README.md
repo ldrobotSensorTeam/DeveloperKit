@@ -22,7 +22,7 @@
 ### 1.4. Acquisition
 
 - Datasheets and Development Manuals
-   - [https://www.ldrobot.com/download/list](https://www.ldrobot.com/download/list)
+   - [https://github.com/ldrobotSensorTeam/D300_LiDAR_Kit/releases](https://github.com/ldrobotSensorTeam/D100_LiDAR_Kit/releases)
 - LiDAR ROS Driver Package
    - [https://github.com/ldrobotSensorTeam/ldlidar_stl_ros](https://github.com/ldrobotSensorTeam/ldlidar_stl_ros)
    - [https://gitee.com/ldrobotSensorTeam/ldlidar_stl_ros](https://gitee.com/ldrobotSensorTeam/ldlidar_stl_ros)
