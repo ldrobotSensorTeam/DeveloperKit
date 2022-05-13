@@ -1,6 +1,6 @@
 ## 1. D300 LiDAR Kit
 ### 1.1. Composition
-<img src="./pic/D300.png" alt="D300.png" style="zoom:50%;" />
+<img src="./pic/D300.png" alt="D300Kit.png" style="zoom:60%;" />
 
 - LDROBOT LiDAR LD19
 - CP2102 Adapter Board and Cable
