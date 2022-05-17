@@ -10,8 +10,8 @@
 - Hotline: `400-682-6829`
 - Online Alibaba website, pls refer: : https://ldrobot.en.alibaba.com
 
-## Support
+## Technical Support
 
-- Method 1: Send questions to` support@ldrobot.com`.
-- Method 2: Submit relevant issues on our team's [GitHub](https://github.com/ldrobotSensorTeam) or [Gitee](https://gitee.com/ldrobotSensorTeam) repository.
+- Method I: Email to: support@ldrobot.com
+- Method II: Submit an issue on our team's [GitHub](https://github.com/ldrobotSensorTeam) or [Gitee](https://gitee.com/ldrobotSensorTeam) repository.
 
